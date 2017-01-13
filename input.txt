@@ -1,0 +1,200 @@
+first
+0
+1
+Donald Harrington
+NONE
+first
+0
+2
+Patrick Gutierrez
+NONE
+first
+1
+0
+Eileen Fleming
+Sunrider
+first
+1
+1
+Freddie Green
+Sunrider
+first
+1
+2
+Anita Watkins
+Sunrider
+economy
+0
+0
+Thomas Morales
+NONE
+economy
+0
+1
+Anthony Braxton
+NONE
+economy
+0
+4
+Bernadette Aguilar
+NONE
+economy
+1
+0
+Loren Gibbs
+LaCosta Dia
+economy
+1
+1
+Dana Oliver
+LaCosta Dia
+economy
+1
+2
+Delores Bowers
+LaCosta Dia
+economy
+1
+3
+Aaron Torres
+LaCosta Dia
+economy
+1
+4
+Olivia Obrien
+LaCosta Dia
+economy
+1
+5
+Allan Daniel
+LaCosta Dia
+economy
+2
+0
+Renee Blair
+Progadaga
+economy
+2
+1
+Kelley Cummings
+Progadaga
+economy
+2
+2
+Javier Fisher
+Progadaga
+economy
+2
+3
+Geneva Nichols
+Progadaga
+economy
+2
+4
+Samantha Fox
+Progadaga
+economy
+2
+5
+Inez Underwood
+Progadaga
+economy
+3
+0
+Jacob Sandoval
+Progadaga
+economy
+3
+1
+Jimmy Jensen
+Progadaga
+economy
+3
+2
+Arlene Dawson
+Progadaga
+economy
+3
+3
+Brendan Cain
+Progadaga
+economy
+3
+4
+Desiree Schultz
+Progadaga
+economy
+3
+5
+Hugo Mullins
+Progadaga
+economy
+4
+0
+Nicolas Gilbert
+Progadaga
+economy
+4
+1
+Paulette Sutton
+Progadaga
+economy
+4
+2
+Dexter Frank
+Progadaga
+economy
+4
+3
+Elizabeth Coleman
+Progadaga
+economy
+4
+4
+Blake Joseph
+Progadaga
+economy
+4
+5
+Latoya Estrada
+Progadaga
+economy
+5
+0
+Orville Sims
+Progadaga
+economy
+5
+1
+Glenda Graves
+Progadaga
+economy
+5
+2
+Kari Haynes
+Progadaga
+economy
+5
+4
+Sarah Ortega
+NONE
+economy
+6
+0
+Genevieve Page
+Stars Wars
+economy
+6
+1
+Deanna Houston
+Stars Wars
+economy
+6
+2
+Lyle Ingram
+Stars Wars
+economy
+6
+3
+Bridget Fletcher
+Stars Wars
